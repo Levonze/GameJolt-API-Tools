@@ -2,11 +2,17 @@
 
 Program that allows you to manage trophies, sessions, data stores on Game Jolt
 
-# Planned features
-* Trophies
+# Features
+#### Trophies
 * [ ] Reward
 * [ ] Remove
 * [ ] Fetch
 
-* Sessions
+#### Sessions
 * [ ] Manage
+
+#### Scores
+* [ ] Add
+* [ ] Fetch
+* [ ] Rank
+* [ ] Tables
