@@ -8,9 +8,6 @@ Program that allows you to manage trophies, sessions, data stores on Game Jolt
 * [ ] Remove
 * [ ] Fetch
 
-#### Sessions
-* [ ] Manage
-
 #### Scores
 * [ ] Add
 * [ ] Fetch
